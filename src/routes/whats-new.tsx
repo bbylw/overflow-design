@@ -114,7 +114,7 @@ function WhatsNewPage() {
                 </p>
               </div>
               <a
-                href="https://x.com/overflowdesign"
+                href="https://x.com/zafarlab"
                 target="_blank"
                 rel="noreferrer"
                 className="btn btn-primary shrink-0"

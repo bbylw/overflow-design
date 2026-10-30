@@ -361,3 +361,6 @@ url = "https://www.overflow.design/api/mcp/"
 - **Overflow Design 官网**：[https://www.overflow.design/](https://www.overflow.design/)
 - **MCP 官方文档**：[https://www.overflow.design/mcp/](https://www.overflow.design/mcp/)
 - **MCP 远程端点**：`https://www.overflow.design/api/mcp/`
+- **Figma 官方插件**：[Overflow Icons & Illustrations](https://www.figma.com/community/plugin/1687128231376306385/overflow-icons-illustrations)
+- **作者 X（Twitter）**：[@zafarlab](https://x.com/zafarlab)
+- **作者 GitHub**：[@Mr-Zafar](https://github.com/Mr-Zafar)

@@ -53,9 +53,10 @@ export function SiteFooter() {
           <p className="mt-4 max-w-xs text-sm leading-relaxed text-muted">
             1,120 个图标、457 张插画与 249 张立体画，全部出自同一只手。中文站依据公开信息整理。
           </p>
-          <div className="mt-6 flex items-center gap-2">
+          <div className="mt-6 flex flex-wrap items-center gap-2">
             {[
-              { label: 'X', href: 'https://x.com/overflowdesign' },
+              { label: 'X (@zafarlab)', href: 'https://x.com/zafarlab' },
+              { label: 'GitHub', href: 'https://github.com/Mr-Zafar' },
               {
                 label: 'Figma 社区',
                 href: 'https://www.figma.com/community/plugin/1687128231376306385/overflow-icons-illustrations',
