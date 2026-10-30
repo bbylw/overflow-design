@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="116" viewBox="0 0 180 116" fill="none">
+  <rect x="1" y="1" width="178" height="114" rx="12" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1.25"/>
+  <rect x="20" y="14" width="58" height="58" rx="10" fill="#F7F7F6" stroke="#EFEFEF"/>
+  <svg x="33" y="27" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#0A0A0A" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 8.4c2 0 3.6 1.6 3.6 3.6s-1.6 3.6-3.6 3.6-3.6-1.6-3.6-3.6 1.6-3.6 3.6-3.6Z"></path><path d="M12 3.4v2.1M12 18.5v2.1M4.6 12H2.5M21.5 12h-2.1M6.7 6.7 5.2 5.2M18.8 18.8l-1.5-1.5M17.3 6.7l1.5-1.5M5.2 18.8l1.5-1.5"></path>
+  </svg>
+  <rect x="102" y="14" width="58" height="58" rx="10" fill="#FDF1ED" stroke="#F5D5C8"/>
+  <svg x="115" y="27" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#0A0A0A" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="3.6" fill="#e2572b" fill-opacity="0.22" stroke="none"></circle><path d="M12 8.4c2 0 3.6 1.6 3.6 3.6s-1.6 3.6-3.6 3.6-3.6-1.6-3.6-3.6 1.6-3.6 3.6-3.6Z"></path><path d="M12 3.4v2.1M12 18.5v2.1M4.6 12H2.5M21.5 12h-2.1M6.7 6.7 5.2 5.2M18.8 18.8l-1.5-1.5M17.3 6.7l1.5-1.5M5.2 18.8l1.5-1.5"></path>
+  </svg>
+  <text x="90" y="96" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="12" font-weight="600" fill="#0A0A0A">设置 · settings</text>
+</svg>

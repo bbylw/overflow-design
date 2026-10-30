@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.output/
+.vinxi/
+.tanstack/
+.playwright-mcp/
+.perch/
+*.local
+.DS_Store
+Thumbs.db

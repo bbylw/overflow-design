@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="250" viewBox="0 0 360 250" fill="none">
+  <rect x="1" y="1" width="358" height="248" rx="16" fill="#FFFFFF" stroke="#E5E5E5" stroke-width="1.5"/>
+  <svg x="12" y="10" width="336" height="230" viewBox="0 0 400 300" fill="none">
+    <path d="M52 252c100-3 200-3 296 0" stroke="#cfcfcb"></path><path d="M120 252c0-28 10-44 28-44s28 16 28 44" fill="#fff"></path><path d="M148 208c10 0 18-8 18-18s-8-18-18-18-18 8-18 18 8 18 18 18Z" fill="#fff"></path><path d="M133 182c4-7 11-10 18-9 7 2 11 8 11 15"></path><path d="M176 224c14 2 24 8 30 16"></path><path d="M148 216v-6M148 210h0"></path><path d="M232 60c14 0 24 11 24 24 0 9-5 15-9 21-2 3-3 6-3 10h-24c0-4-1-7-3-10-4-6-9-12-9-21 0-13 10-24 24-24Z" fill="#fff"></path><path d="M228 108h8M228 116h8" stroke="#e2572b" stroke-width="2"></path><path d="M232 32v-6M196 44l-5-4M268 44l5-4M186 76h-7M278 76h7" stroke="#e2572b"></path><path d="M266 158l38-4 3 30-38 4Z" fill="#fff"></path><path d="M274 168l22-2M275 176l22-2" stroke="#cfcfca"></path><path d="M94 176l30-3 2 24-30 3Z" fill="#fff"></path><path d="M101 184l16-2M102 191l16-2" stroke="#cfcfca"></path>
+  </svg>
+</svg>
